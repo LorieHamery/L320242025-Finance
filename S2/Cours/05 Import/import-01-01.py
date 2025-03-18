@@ -6,3 +6,4 @@ def foo(arg):
 
 class Foo:
     pass
+
