@@ -4,3 +4,4 @@ even_odd_sum_tuples = (tuple((x, y, x + y) for x in list1 for y in list2 if (x +
 print(list1)
 print(list2)
 print(even_odd_sum_tuples)
+#!= 0) différent de 0 donc l'addition des 3 valeurs doit être impaire 

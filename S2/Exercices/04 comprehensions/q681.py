@@ -3,3 +3,4 @@ vowel_counts = {word: sum(1 for char in word if char.lower() in 'aeiou') for wor
                 any(char.lower() in 'aeiou' for char in word)}
 print(words)
 print(vowel_counts)
+# qui dit dictionnaire dis suppression de doublon 
